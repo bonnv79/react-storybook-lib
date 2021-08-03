@@ -1,16 +1,16 @@
 {
-  "main": "dist/index.js",
   "name": "react-storybook-lib",
-  "version": "0.1.1",
+  "version": "0.1.2",
+  "description": "react-storybook-lib",
+  "author": "bonnv79",
+  "license": "MIT",
+  "repository": "bonnv79/react-storybook-lib",
+  "main": "dist/index.js",
   "private": false,
   "files": [
     "dist",
     "README.md"
   ],
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/bonnv79/react-storybook-lib.git"
-  },
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
